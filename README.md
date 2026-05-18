@@ -1,6 +1,8 @@
 # EHC
 Code and documentation for 'The role of edible habitat complexity in food webs'
 
+The manuscript for this project is now published at Limnology and Oceanography Letters: https://doi.org/10.1002/lol2.70133
+
 'Dynamica.m' is a Mathematica package by Randall D. Beer (https://rdbeer.pages.iu.edu/) that is used occassionally in the dynamical systems analysis of each model. Each attached notebook provides the analysis for one of the three models in the paper. Each notebook should be run in order. 
 
 'EHC_PP' analyzes the base consumer-resource model.
